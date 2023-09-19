@@ -1,4 +1,4 @@
-##Hola, soy Fernando!
+## Hola, soy Fernando!
 
 Soy un apasionado profesional con experiencia en la educación superior técnica y una destacada trayectoria como jefe de servicio técnico en una concesionaria de autos Peugeot. Mi dedicación a la resolución de problemas y el liderazgo me ha permitido destacar en mi carrera.
 
