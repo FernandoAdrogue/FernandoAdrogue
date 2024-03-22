@@ -8,7 +8,7 @@ Estoy convencido de que la combinación de mis habilidades técnicas, mi pasión
 
 ## Tecnologías utilizadas
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,redux,git,nodejs,express,nextjs,ts,py,mysql,java,sequelize,postgres,bootstraps,cs,dotnet )](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,redux,git,nodejs,express,nextjs,ts,py,mysql,java,sequelize,postgres,bootstrap,cs,dotnet )](https://skillicons.dev)
 
 
 ## Como puedes contactarme?
